@@ -22,35 +22,43 @@
   "menu":[
     {
       "menu":"Home",
-      "icon":"home"
+      "icon":"home",
+      "path":"home"
     },
     {
       "menu":"Perfil",
-      "icon":"account_circle"
+      "icon":"account_circle",
+      "path":"perfil"
     },
     {
       "menu":"Notificações",
-      "icon":"notifications_active"
+      "icon":"notifications_active",
+      "path":"notificacoes"
     },
     {
       "menu":"Mensagens",
-      "icon":"chat"
+      "icon":"chat",
+      "path":"chat"
     },
     {
       "menu":"Conexões",
-      "icon":"diversity_1"
+      "icon":"diversity_1",
+      "path":"conexoes"
     },
     {
       "menu":"Grupos",
-      "icon":"groups"
+      "icon":"groups",
+      "path":"groups"
     },
     {
       "menu":"Eventos",
-      "icon":"event"
+      "icon":"event",
+      "path":"event"
     },
     {
       "menu":"Configurações",
-      "icon":"settings"
+      "icon":"settings",
+      "path":"settings"
     }    
   ]
 }

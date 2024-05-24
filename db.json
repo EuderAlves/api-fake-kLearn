@@ -18,5 +18,31 @@
       "email": "lucas@klearn.com",
       "password": "adm1234"
     }
+  ],
+  "menu":[
+    {
+      "menu":"Home"
+    },
+    {
+      "menu":"Perfil"
+    },
+    {
+      "menu":"Notificações"
+    },
+    {
+      "menu":"Mensagens"
+    },
+    {
+      "menu":"Conexões"
+    },
+    {
+      "menu":"Grupos"
+    },
+    {
+      "menu":"Eventos"
+    },
+    {
+      "menu":"Configurações"
+    }    
   ]
 }

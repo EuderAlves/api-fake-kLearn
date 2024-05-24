@@ -21,28 +21,36 @@
   ],
   "menu":[
     {
-      "menu":"Home"
+      "menu":"Home",
+      "icon":"home"
     },
     {
-      "menu":"Perfil"
+      "menu":"Perfil",
+      "icon":"account_circle"
     },
     {
-      "menu":"Notificações"
+      "menu":"Notificações",
+      "icon":"notifications_active"
     },
     {
-      "menu":"Mensagens"
+      "menu":"Mensagens",
+      "icon":"chat"
     },
     {
-      "menu":"Conexões"
+      "menu":"Conexões",
+      "icon":"diversity_1"
     },
     {
-      "menu":"Grupos"
+      "menu":"Grupos",
+      "icon":"groups"
     },
     {
-      "menu":"Eventos"
+      "menu":"Eventos",
+      "icon":"event"
     },
     {
-      "menu":"Configurações"
+      "menu":"Configurações",
+      "icon":"settings"
     }    
   ]
 }

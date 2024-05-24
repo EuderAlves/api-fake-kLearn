@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "nome": "Aried",
+      "email": "aried@klearn.com",
+      "password": "adm1234"
+    },
+    {
+      "id": 1,
+      "nome": "Euder",
+      "email": "euder@klearn.com",
+      "password": "adm1234"
+    },
+    {
+      "id": 1,
+      "nome": "Lucas",
+      "email": "lucas@klearn.com",
+      "password": "adm1234"
+    }
+  ]
+}
